@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "73B0911A-FD94-4F83-AF4F-5305CDA26965"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CD4D696-02EC-4593-AFF5-342B712E9CE6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8CD4D696-02EC-4593-AFF5-342B712E9CE6 - 7f13aa30fe14f9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+               <Location
+                  uuid = "8CD4D696-02EC-4593-AFF5-342B712E9CE6 - 7f13aa30fe14f9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1428">
+               </Location>
+               <Location
+                  uuid = "8CD4D696-02EC-4593-AFF5-342B712E9CE6 - 7f13aa30fe14f9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1480">
+               </Location>
+               <Location
+                  uuid = "8CD4D696-02EC-4593-AFF5-342B712E9CE6 - 7f13aa30fe14f9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB317A52-8011-43AA-9704-5A628A902BD0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB317A52-8011-43AA-9704-5A628A902BD0 - 7f13aa30fe14ff9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "BB317A52-8011-43AA-9704-5A628A902BD0 - 7f13aa30fe14fd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "856">
+               </Location>
+               <Location
+                  uuid = "BB317A52-8011-43AA-9704-5A628A902BD0 - 7f13aa30fe14fd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "BB317A52-8011-43AA-9704-5A628A902BD0 - 7f13aa30fe14f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1128">
+               </Location>
+               <Location
+                  uuid = "BB317A52-8011-43AA-9704-5A628A902BD0 - 7f13aa30fe14f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1512">
+               </Location>
+               <Location
+                  uuid = "BB317A52-8011-43AA-9704-5A628A902BD0 - 7f13aa30fe14f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27F685B4-5BDE-4574-96A6-7FFA82626901"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "27F685B4-5BDE-4574-96A6-7FFA82626901 - 7f13aa30fe14fd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "848">
+               </Location>
+               <Location
+                  uuid = "27F685B4-5BDE-4574-96A6-7FFA82626901 - 7f13aa30fe14fbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "27F685B4-5BDE-4574-96A6-7FFA82626901 - 7f13aa30fe14fbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "27F685B4-5BDE-4574-96A6-7FFA82626901 - 7f13aa30fe14f16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1256">
+               </Location>
+               <Location
+                  uuid = "27F685B4-5BDE-4574-96A6-7FFA82626901 - 7f13aa30fe14f16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1640">
+               </Location>
+               <Location
+                  uuid = "27F685B4-5BDE-4574-96A6-7FFA82626901 - 7f13aa30fe14f16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "621B380E-A9FD-4646-ADDE-0302C83BA9EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "621B380E-A9FD-4646-ADDE-0302C83BA9EB - 7f13aa30fe14fbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "880">
+               </Location>
+               <Location
+                  uuid = "621B380E-A9FD-4646-ADDE-0302C83BA9EB - 7f13aa30fe14f9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "904">
+               </Location>
+               <Location
+                  uuid = "621B380E-A9FD-4646-ADDE-0302C83BA9EB - 7f13aa30fe14cf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1652">
+               </Location>
+               <Location
+                  uuid = "621B380E-A9FD-4646-ADDE-0302C83BA9EB - 7f13aa30fe14cf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED8CB11D-AA0F-4C44-9107-7A347D7E69DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AF8FC99-37E1-4B64-9EA3-F1FBF08A8510"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49FFC53A-8A90-4E05-AEFB-57CB8C3A6338"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "49FFC53A-8A90-4E05-AEFB-57CB8C3A6338 - 7f13aa30fe14fbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1148">
+               </Location>
+               <Location
+                  uuid = "49FFC53A-8A90-4E05-AEFB-57CB8C3A6338 - 7f13aa30fe14fbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B6B16B8-4CF3-4006-A752-A28A8E2C8D8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44FBE4B9-2E79-4AD5-87FF-CB32DC605F39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46831145-EAB8-43CF-AE78-D45A62D79587"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46831145-EAB8-43CF-AE78-D45A62D79587 - 7f13aa30fe14fbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1148">
+               </Location>
+               <Location
+                  uuid = "46831145-EAB8-43CF-AE78-D45A62D79587 - 7f13aa30fe14fbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44E19107-DA41-49D6-9099-E47FABFA2D0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "44E19107-DA41-49D6-9099-E47FABFA2D0D - 7f13aa30fe14c4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1624">
+               </Location>
+               <Location
+                  uuid = "44E19107-DA41-49D6-9099-E47FABFA2D0D - 7f13aa30fe14c2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1732">
+               </Location>
+               <Location
+                  uuid = "44E19107-DA41-49D6-9099-E47FABFA2D0D - 7f13aa30fe14c2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9DDAC0A-F12D-44F6-8409-2931E428A93B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9DDAC0A-F12D-44F6-8409-2931E428A93B - 7f13aa30fe14c2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1924">
+               </Location>
+               <Location
+                  uuid = "B9DDAC0A-F12D-44F6-8409-2931E428A93B - 7f13aa30fe14de9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "2080">
+               </Location>
+               <Location
+                  uuid = "B9DDAC0A-F12D-44F6-8409-2931E428A93B - 7f13aa30fe14de9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "2076">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C205E9F3-E166-411B-99F3-92E04C281220"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C205E9F3-E166-411B-99F3-92E04C281220 - 7f13aa30fe14dc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1976">
+               </Location>
+               <Location
+                  uuid = "C205E9F3-E166-411B-99F3-92E04C281220 - 7f13aa30fe14d44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "2144">
+               </Location>
+               <Location
+                  uuid = "C205E9F3-E166-411B-99F3-92E04C281220 - 7f13aa30fe14d44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SumOfMultiples.SumOfMultiples.toLimit(_: Swift.Int, inMultiples: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "SumOfMultiplesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sum-of-multiples/Sources/SumOfMultiples/SumOfMultiples.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "2148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE31C972-D8EA-43A4-8DC6-E50A3ADD4A43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78F4920A-C720-4AF9-9947-6E469C19DB95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SumOfMultiples/SumOfMultiples.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "toLimit(_:inMultiples:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
