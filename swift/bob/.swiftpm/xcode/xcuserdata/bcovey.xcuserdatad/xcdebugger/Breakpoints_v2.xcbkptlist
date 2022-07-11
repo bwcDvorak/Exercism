@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "882F792E-4C41-4584-B422-5FC1C477A246"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65C47D03-6D5C-4AC0-A96C-FECA8B88FB65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Bob/Bob.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "hey(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "65C47D03-6D5C-4AC0-A96C-FECA8B88FB65 - ce79db7065f6c988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1420">
+               </Location>
+               <Location
+                  uuid = "65C47D03-6D5C-4AC0-A96C-FECA8B88FB65 - ce79db7065f6c988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1528">
+               </Location>
+               <Location
+                  uuid = "65C47D03-6D5C-4AC0-A96C-FECA8B88FB65 - ce79db7065f6c9c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1792">
+               </Location>
+               <Location
+                  uuid = "65C47D03-6D5C-4AC0-A96C-FECA8B88FB65 - ce79db7065f6c9e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CF9EB1A-1C0D-46BE-A7BB-FC7EB47A91F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Bob/Bob.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "hey(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6CF9EB1A-1C0D-46BE-A7BB-FC7EB47A91F1 - ce79db7065f6c9c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1476">
+               </Location>
+               <Location
+                  uuid = "6CF9EB1A-1C0D-46BE-A7BB-FC7EB47A91F1 - ce79db7065f6c9c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1584">
+               </Location>
+               <Location
+                  uuid = "6CF9EB1A-1C0D-46BE-A7BB-FC7EB47A91F1 - ce79db7065f6c9c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1620">
+               </Location>
+               <Location
+                  uuid = "6CF9EB1A-1C0D-46BE-A7BB-FC7EB47A91F1 - ce79db7065f6c804"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1884">
+               </Location>
+               <Location
+                  uuid = "6CF9EB1A-1C0D-46BE-A7BB-FC7EB47A91F1 - ce79db7065f6c827"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1620">
+               </Location>
+               <Location
+                  uuid = "6CF9EB1A-1C0D-46BE-A7BB-FC7EB47A91F1 - ce79db7065f6c865"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1924">
+               </Location>
+               <Location
+                  uuid = "6CF9EB1A-1C0D-46BE-A7BB-FC7EB47A91F1 - ce79db7065f6c865"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1928">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D27A5B5-53B8-4343-8A7A-531E4D0E11E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Bob/Bob.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "hey(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D27A5B5-53B8-4343-8A7A-531E4D0E11E2 - ce79db7065f6c804"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+               <Location
+                  uuid = "7D27A5B5-53B8-4343-8A7A-531E4D0E11E2 - ce79db7065f6c804"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1680">
+               </Location>
+               <Location
+                  uuid = "7D27A5B5-53B8-4343-8A7A-531E4D0E11E2 - ce79db7065f6c842"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1944">
+               </Location>
+               <Location
+                  uuid = "7D27A5B5-53B8-4343-8A7A-531E4D0E11E2 - ce79db7065f6c865"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1680">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "879010B8-8203-42E6-A7B5-219E2B3AF584"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Bob/Bob.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "hey(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "879010B8-8203-42E6-A7B5-219E2B3AF584 - ce79db7065f6c92f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1284">
+               </Location>
+               <Location
+                  uuid = "879010B8-8203-42E6-A7B5-219E2B3AF584 - ce79db7065f6c92f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+               <Location
+                  uuid = "879010B8-8203-42E6-A7B5-219E2B3AF584 - ce79db7065f6c96d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1608">
+               </Location>
+               <Location
+                  uuid = "879010B8-8203-42E6-A7B5-219E2B3AF584 - ce79db7065f6c90c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96C67D4D-2F34-44B8-8923-A2789430C9D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Bob/Bob.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "hey(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "96C67D4D-2F34-44B8-8923-A2789430C9D1 - ce79db7065f6c94a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1356">
+               </Location>
+               <Location
+                  uuid = "96C67D4D-2F34-44B8-8923-A2789430C9D1 - ce79db7065f6c94a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1472">
+               </Location>
+               <Location
+                  uuid = "96C67D4D-2F34-44B8-8923-A2789430C9D1 - ce79db7065f6c988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+               <Location
+                  uuid = "96C67D4D-2F34-44B8-8923-A2789430C9D1 - ce79db7065f6c9ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1472">
+               </Location>
+               <Location
+                  uuid = "96C67D4D-2F34-44B8-8923-A2789430C9D1 - ce79db7065f6c9e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1776">
+               </Location>
+               <Location
+                  uuid = "96C67D4D-2F34-44B8-8923-A2789430C9D1 - ce79db7065f6c9e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.hey(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
