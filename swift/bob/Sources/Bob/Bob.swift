@@ -2,7 +2,6 @@ import Foundation
 
 //Solution goes in Sources
 struct Bob {
-
     
     static func hey (_ input: String) -> String {
         // remove whitespace...
