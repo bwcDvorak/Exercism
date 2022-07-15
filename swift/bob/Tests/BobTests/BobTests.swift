@@ -38,12 +38,9 @@ class BobTests: XCTestCase {
         XCTAssertEqual(expected, result)
     }
 
-    // altered the expected string locally because the test is in error
-    // there is an open but unresolved PR for making the same change at
-    // https://github.com/exercism/swift/pull/507
     func testForcefulQuestions() {
         let input = "WHAT THE HELL WERE YOU THINKING?"
-        let expected = "Calm down, I know what I'm doing!"
+        let expected = "Whoa, chill out!"
         let result = Bob.hey(input)
         XCTAssertEqual(expected, result)
     }

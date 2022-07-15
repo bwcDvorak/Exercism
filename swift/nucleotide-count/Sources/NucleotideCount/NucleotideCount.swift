@@ -12,7 +12,7 @@ struct DNA {
         guard (strand.uppercased() == strand) else {
             return nil
         }
-    
+   
         dnaStrand = strand
     }
     
