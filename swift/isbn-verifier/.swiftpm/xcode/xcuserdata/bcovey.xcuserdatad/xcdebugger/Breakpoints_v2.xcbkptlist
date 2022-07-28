@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C7E41C62-4844-4081-B215-4F57F78FB7E2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69464AA3-E2D1-41C5-A6CE-A1A30A9B7A40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "isValid(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "69464AA3-E2D1-41C5-A6CE-A1A30A9B7A40 - dc04a0869823a45a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "69464AA3-E2D1-41C5-A6CE-A1A30A9B7A40 - dc04a0869823a543"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEA076A7-CF71-4A02-8854-FB897D1251A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "IsbnVerifier"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B5AEC72-7A42-44FD-BA9C-5E52D06F211D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "IsbnVerifier"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "125F34B2-B74E-40A6-B90A-F61EE0AFCBF2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "IsbnVerifier"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D7A14A7-6A42-4389-85EF-0ED606CA148D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "IsbnVerifier"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F668F5A-A939-46F6-8999-A0E609FF04AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "IsbnVerifier"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "5F668F5A-A939-46F6-8999-A0E609FF04AC - dc04a0869823ba4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "696">
+               </Location>
+               <Location
+                  uuid = "5F668F5A-A939-46F6-8999-A0E609FF04AC - dc04a0869823ba91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "760">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B7BCDE1-B8BB-4460-AC17-F111D466E3D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "IsbnVerifier"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "5B7BCDE1-B8BB-4460-AC17-F111D466E3D7 - dc04a0869823ba6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "5B7BCDE1-B8BB-4460-AC17-F111D466E3D7 - dc04a0869823bab0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "792">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFA0E83B-E064-4085-87AC-E199FE5F9A1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "IsbnVerifier"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AC555B0-567A-4D28-9326-943F1113C737"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "IsbnVerifier"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49B19328-949A-4E8D-B05F-011772DADCEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "isValid(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "49B19328-949A-4E8D-B05F-011772DADCEE - dc04a0869823a562"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "49B19328-949A-4E8D-B05F-011772DADCEE - dc04a0869823a562"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9627CDE7-9C84-4B67-88A5-1C85E3994CEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "IsbnVerifier"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A395986-3D5C-4DEA-A497-ED3BC615A16F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "IsbnVerifier"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "6A395986-3D5C-4DEA-A497-ED3BC615A16F - dc04a0869823a589"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "900">
+               </Location>
+               <Location
+                  uuid = "6A395986-3D5C-4DEA-A497-ED3BC615A16F - dc04a0869823a589"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "804">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E688285-8531-4973-9DC8-BEC1961041C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "IsbnVerifier"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "4E688285-8531-4973-9DC8-BEC1961041C0 - dc04a0869823a5a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "908">
+               </Location>
+               <Location
+                  uuid = "4E688285-8531-4973-9DC8-BEC1961041C0 - dc04a0869823a5a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "944">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "246D51CA-A3CB-41F0-BF09-3E449BA55704"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/IsbnVerifier/IsbnVerifier.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "IsbnVerifier"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "246D51CA-A3CB-41F0-BF09-3E449BA55704 - dc04a0869823ba15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "916">
+               </Location>
+               <Location
+                  uuid = "246D51CA-A3CB-41F0-BF09-3E449BA55704 - dc04a0869823ba4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static IsbnVerifier.IsbnVerifier.isValid(Swift.String) -&gt; Swift.Bool"
+                  moduleName = "IsbnVerifierTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/isbn-verifier/Sources/IsbnVerifier/IsbnVerifier.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "952">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
