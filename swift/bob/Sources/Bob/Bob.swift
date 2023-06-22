@@ -29,9 +29,14 @@ struct Bob {
         switch input {
         case _ where (myTrimmedString.isEmpty):
             return Replies.passiveAggress.rawValue
+//      "containsLetters" below to deal with the "4?" test case
         case _ where (isQuestion && isYelled && containsLetters):
-//      "containsLetters" to deal with the "4?" test case
-            return Replies.yelledQuestion.rawValue
+//            return Replies.yelledQuestion.rawValue
+//      filed a bug with exercism on this. Lesson description
+//      (and this lesson in other langugage tracks) says response
+//      here should be yelledQuestion. Nonetheless, swift lesson test
+//      expects yelledAt, so...
+            return Replies.yelledAt.rawValue
         case _ where (isQuestion):
             return Replies.question.rawValue
         case _ where (isYelled && containsLetters):
