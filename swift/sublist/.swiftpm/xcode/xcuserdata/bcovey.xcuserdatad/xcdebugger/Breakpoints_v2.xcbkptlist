@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "38C93051-E892-41A6-9F66-07DBE4CBF504"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BDD88B2-B540-46CB-977F-00AFD0684636"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Sublist/Sublist.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "isSublist(_:in:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "1BDD88B2-B540-46CB-977F-00AFD0684636 - 99082a9c1944be46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "1BDD88B2-B540-46CB-977F-00AFD0684636 - 99082a9c1944be67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "1BDD88B2-B540-46CB-977F-00AFD0684636 - 99082a9c1944be67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "1BDD88B2-B540-46CB-977F-00AFD0684636 - 99082a9c1944be67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "1BDD88B2-B540-46CB-977F-00AFD0684636 - 99082a9c1944bee3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08924711-8539-42D3-971B-6F34703ACF74"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Sublist/Sublist.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "isSublist(_:in:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "08924711-8539-42D3-971B-6F34703ACF74 - 99082a9c1944bec2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "08924711-8539-42D3-971B-6F34703ACF74 - 99082a9c1944bee3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "08924711-8539-42D3-971B-6F34703ACF74 - 99082a9c1944bee3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1012">
+               </Location>
+               <Location
+                  uuid = "08924711-8539-42D3-971B-6F34703ACF74 - 99082a9c1944bee3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+               <Location
+                  uuid = "08924711-8539-42D3-971B-6F34703ACF74 - 99082a9c1944bee3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+               <Location
+                  uuid = "08924711-8539-42D3-971B-6F34703ACF74 - 99082a9c1944bee3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1068">
+               </Location>
+               <Location
+                  uuid = "08924711-8539-42D3-971B-6F34703ACF74 - 99082a9c1944bee3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  uuid = "08924711-8539-42D3-971B-6F34703ACF74 - 99082a9c1944a11f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "996">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4419998-4AFA-4C83-BBAF-58F728AEDCD6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Sublist/Sublist.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "classifier(listOne:listTwo:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "A4419998-4AFA-4C83-BBAF-58F728AEDCD6 - 109f1416b297531f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.classifier(listOne: Swift.Array&lt;Swift.Int&gt;, listTwo: Swift.Array&lt;Swift.Int&gt;) -&gt; Sublist.Classification"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "A4419998-4AFA-4C83-BBAF-58F728AEDCD6 - 109f1416b297533e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.classifier(listOne: Swift.Array&lt;Swift.Int&gt;, listTwo: Swift.Array&lt;Swift.Int&gt;) -&gt; Sublist.Classification"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "A4419998-4AFA-4C83-BBAF-58F728AEDCD6 - 109f1416b29753ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.classifier(listOne: Swift.Array&lt;Swift.Int&gt;, listTwo: Swift.Array&lt;Swift.Int&gt;) -&gt; Sublist.Classification"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "804">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8619A126-E7DF-46D5-B78B-6DB0D7AF13D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Sublist/Sublist.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "classifier(listOne:listTwo:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "8619A126-E7DF-46D5-B78B-6DB0D7AF13D9 - 99082a9c1944bfca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "8619A126-E7DF-46D5-B78B-6DB0D7AF13D9 - 109f1416b297539b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.classifier(listOne: Swift.Array&lt;Swift.Int&gt;, listTwo: Swift.Array&lt;Swift.Int&gt;) -&gt; Sublist.Classification"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "8619A126-E7DF-46D5-B78B-6DB0D7AF13D9 - 109f1416b2975217"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.classifier(listOne: Swift.Array&lt;Swift.Int&gt;, listTwo: Swift.Array&lt;Swift.Int&gt;) -&gt; Sublist.Classification"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FF7FFFB-8C2A-46B2-B953-2F90325DD033"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Sublist/Sublist.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "isSublist(_:in:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE15DA05-CC56-45A9-BB6F-F798F46AC496"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Sublist/Sublist.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "isSublist(_:in:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "AE15DA05-CC56-45A9-BB6F-F798F46AC496 - 99082a9c1944a076"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+               <Location
+                  uuid = "AE15DA05-CC56-45A9-BB6F-F798F46AC496 - 99082a9c1944a055"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1000">
+               </Location>
+               <Location
+                  uuid = "AE15DA05-CC56-45A9-BB6F-F798F46AC496 - 99082a9c1944a030"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "984">
+               </Location>
+               <Location
+                  uuid = "AE15DA05-CC56-45A9-BB6F-F798F46AC496 - 99082a9c1944a0ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "984">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0C32A83-1249-4A24-A763-666B28481735"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Sublist/Sublist.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "isSublist(_:in:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C0C32A83-1249-4A24-A763-666B28481735 - 99082a9c1944a1b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+               <Location
+                  uuid = "C0C32A83-1249-4A24-A763-666B28481735 - 99082a9c1944a1b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "C0C32A83-1249-4A24-A763-666B28481735 - 99082a9c1944a1b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "924">
+               </Location>
+               <Location
+                  uuid = "C0C32A83-1249-4A24-A763-666B28481735 - 99082a9c1944a19b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "852">
+               </Location>
+               <Location
+                  uuid = "C0C32A83-1249-4A24-A763-666B28481735 - 99082a9c1944a017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACBBFF0F-4350-45FC-83AA-731EF3C82EB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Sublist/Sublist.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "isSublist(_:in:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "ACBBFF0F-4350-45FC-83AA-731EF3C82EB2 - 99082a9c1944a1b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+               <Location
+                  uuid = "ACBBFF0F-4350-45FC-83AA-731EF3C82EB2 - 99082a9c1944a055"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+               <Location
+                  uuid = "ACBBFF0F-4350-45FC-83AA-731EF3C82EB2 - 99082a9c1944a055"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+               <Location
+                  uuid = "ACBBFF0F-4350-45FC-83AA-731EF3C82EB2 - 99082a9c1944a1b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "ACBBFF0F-4350-45FC-83AA-731EF3C82EB2 - 99082a9c1944a030"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "948">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11C83551-106F-430C-9982-1A92936FACAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Sublist/Sublist.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "isSublist(_:in:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "11C83551-106F-430C-9982-1A92936FACAC - 99082a9c1944a076"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1072">
+               </Location>
+               <Location
+                  uuid = "11C83551-106F-430C-9982-1A92936FACAC - 99082a9c1944a017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1064">
+               </Location>
+               <Location
+                  uuid = "11C83551-106F-430C-9982-1A92936FACAC - 99082a9c1944a017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+               <Location
+                  uuid = "11C83551-106F-430C-9982-1A92936FACAC - 99082a9c1944a076"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "968">
+               </Location>
+               <Location
+                  uuid = "11C83551-106F-430C-9982-1A92936FACAC - 99082a9c1944a0f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sublist.isSublist(_: Swift.Array&lt;Swift.Int&gt;, in: Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Bool"
+                  moduleName = "SublistTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/sublist/Sources/Sublist/Sublist.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FFEB893-8A06-463A-BEDA-09CAC702FF2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Sublist/Sublist.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "classifier(listOne:listTwo:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DE32D14-3323-41E4-A8A3-81ECE32A55B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Sublist/Sublist.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "classifier(listOne:listTwo:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97B8E3B5-3C28-45A6-A658-F4129B8B42DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Sublist/Sublist.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "classifier(listOne:listTwo:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
