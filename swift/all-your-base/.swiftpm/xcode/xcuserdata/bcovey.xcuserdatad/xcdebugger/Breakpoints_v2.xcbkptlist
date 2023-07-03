@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "287ACB7B-AF41-479C-B600-A018B45F0C50"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "781944EF-EE4E-4569-A7FD-F3BAF39DEE2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "781944EF-EE4E-4569-A7FD-F3BAF39DEE2A - 8ae7d1d7e72ae96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "3020">
+               </Location>
+               <Location
+                  uuid = "781944EF-EE4E-4569-A7FD-F3BAF39DEE2A - 8ae7d1d7e72af33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "3320">
+               </Location>
+               <Location
+                  uuid = "781944EF-EE4E-4569-A7FD-F3BAF39DEE2A - 8ae7d1d7e72b102"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2592">
+               </Location>
+               <Location
+                  uuid = "781944EF-EE4E-4569-A7FD-F3BAF39DEE2A - 8ae7d1d7e72b1dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "2932">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DBF45B7-0F65-4CD2-9ACB-513BCBAA65B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DBF45B7-0F65-4CD2-9ACB-513BCBAA65B9 - 8ae7d1d7e72b069"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1664">
+               </Location>
+               <Location
+                  uuid = "0DBF45B7-0F65-4CD2-9ACB-513BCBAA65B9 - 8ae7d1d7e72b38e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1616">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72E66766-D4D4-471A-A20B-BFA53C0409CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C13BA4F7-F706-4C5E-AEC7-6DE6C97231A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78FAEFD0-1A2C-4AC4-B73C-4018CD08BA5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72BCBD7E-9241-472D-AACD-820A3AD733ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72BCBD7E-9241-472D-AACD-820A3AD733ED - 8ae7d1d7e72b2d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+               <Location
+                  uuid = "72BCBD7E-9241-472D-AACD-820A3AD733ED - 8ae7d1d7e72b2d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1064">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BFC7514-F06B-49C2-978B-D10AB6A0F7FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4BFC7514-F06B-49C2-978B-D10AB6A0F7FF - 8ae7d1d7e72b215"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1012">
+               </Location>
+               <Location
+                  uuid = "4BFC7514-F06B-49C2-978B-D10AB6A0F7FF - 8ae7d1d7e72b215"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F63AF572-B164-47B0-83B3-823DC0F96E07"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2248DF02-1F96-4B63-9D7E-FFA88804A988"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C46B3C23-3A15-4D56-B3D8-EDCCB9D99D92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25D6BC60-AC0A-417D-9770-AC3CC451098F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests/AllYourBaseTests/AllYourBaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "testHexadecimalToTrinary()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54492FB8-B18D-4671-9C28-B142E37B6F57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "54492FB8-B18D-4671-9C28-B142E37B6F57 - 8ae7d1d7e72af71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "3700">
+               </Location>
+               <Location
+                  uuid = "54492FB8-B18D-4671-9C28-B142E37B6F57 - 8ae7d1d7e72af33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "3748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7C55D56-DBDF-4832-9896-E037BF0C2576"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7C55D56-DBDF-4832-9896-E037BF0C2576 - 8ae7d1d7e72b0c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "2180">
+               </Location>
+               <Location
+                  uuid = "F7C55D56-DBDF-4832-9896-E037BF0C2576 - 8ae7d1d7e72b0c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "2204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FD6DE75-5F57-4A2E-9C49-B5A54BE98731"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2FD6DE75-5F57-4A2E-9C49-B5A54BE98731 - 8ae7d1d7e72b0a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2220">
+               </Location>
+               <Location
+                  uuid = "2FD6DE75-5F57-4A2E-9C49-B5A54BE98731 - 8ae7d1d7e72b0a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4A2F3CD-C60E-41CE-9514-6F0C30CC85DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/AllYourBase/AllYourBase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "outputDigits(inputBase:inputDigits:outputBase:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C4A2F3CD-C60E-41CE-9514-6F0C30CC85DB - 8ae7d1d7e72b086"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "2436">
+               </Location>
+               <Location
+                  uuid = "C4A2F3CD-C60E-41CE-9514-6F0C30CC85DB - 8ae7d1d7e72b086"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AllYourBase.Base.outputDigits(inputBase: Swift.Int, inputDigits: Swift.Array&lt;Swift.Int&gt;, outputBase: Swift.Int) throws -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "AllYourBaseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/all-your-base/Sources/AllYourBase/AllYourBase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "2460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
