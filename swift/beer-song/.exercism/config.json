@@ -1,0 +1,27 @@
+{
+  "authors": [
+    "AlwynC"
+  ],
+  "contributors": [
+    "bhargavg",
+    "harquail",
+    "kytrinyx",
+    "lyuha",
+    "masters3d",
+    "ThomasHaz"
+  ],
+  "files": {
+    "solution": [
+      "Sources/BeerSong/BeerSong.swift"
+    ],
+    "test": [
+      "Tests/BeerSongTests/BeerSongTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/BeerSong/BeerSongExample.swift"
+    ]
+  },
+  "blurb": "Produce the lyrics to that beloved classic, that field-trip favorite: 99 Bottles of Beer on the Wall.",
+  "source": "Learn to Program by Chris Pine",
+  "source_url": "https://pine.fm/LearnToProgram/?Chapter=06"
+}
