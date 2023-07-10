@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F37A923B-8E3B-40D4-AF2C-860577736D7D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81291557-8B9C-4205-8F68-D2F1E3871770"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D9399B6-61E6-45CD-8509-22D337B4FEB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF2A35EB-A92C-4882-BC10-563B04A31BDC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "largestProduct(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DF2A35EB-A92C-4882-BC10-563B04A31BDC - 3b4fcb53256fcd42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LargestSeriesProduct.NumberSeries.largestProduct(Swift.Int) throws -&gt; Swift.Int"
+                  moduleName = "LargestSeriesProductTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/largest-series-product/Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "DF2A35EB-A92C-4882-BC10-563B04A31BDC - 3b4fcb53256fcd42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LargestSeriesProduct.NumberSeries.largestProduct(Swift.Int) throws -&gt; Swift.Int"
+                  moduleName = "LargestSeriesProductTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/largest-series-product/Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C978D6A-FF7D-40FB-9F54-337D927A2BF4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "largestProduct(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C978D6A-FF7D-40FB-9F54-337D927A2BF4 - 3b4fcb53256ff2ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LargestSeriesProduct.NumberSeries.largestProduct(Swift.Int) throws -&gt; Swift.Int"
+                  moduleName = "LargestSeriesProductTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/largest-series-product/Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+               <Location
+                  uuid = "8C978D6A-FF7D-40FB-9F54-337D927A2BF4 - 3b4fcb53256ff2ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LargestSeriesProduct.NumberSeries.largestProduct(Swift.Int) throws -&gt; Swift.Int"
+                  moduleName = "LargestSeriesProductTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/largest-series-product/Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+               <Location
+                  uuid = "8C978D6A-FF7D-40FB-9F54-337D927A2BF4 - 3b4fcb53256ff2ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LargestSeriesProduct.NumberSeries.largestProduct(Swift.Int) throws -&gt; Swift.Int"
+                  moduleName = "LargestSeriesProductTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/largest-series-product/Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74ECDCE5-EC26-4D55-8ACB-74219147C1A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "largestProduct(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74ECDCE5-EC26-4D55-8ACB-74219147C1A6 - 3b4fcb53256ff208"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LargestSeriesProduct.NumberSeries.largestProduct(Swift.Int) throws -&gt; Swift.Int"
+                  moduleName = "LargestSeriesProductTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/largest-series-product/Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1200">
+               </Location>
+               <Location
+                  uuid = "74ECDCE5-EC26-4D55-8ACB-74219147C1A6 - 3b4fcb53256ff208"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LargestSeriesProduct.NumberSeries.largestProduct(Swift.Int) throws -&gt; Swift.Int"
+                  moduleName = "LargestSeriesProductTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/largest-series-product/Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1308">
+               </Location>
+               <Location
+                  uuid = "74ECDCE5-EC26-4D55-8ACB-74219147C1A6 - 3b4fcb53256ff208"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LargestSeriesProduct.NumberSeries.largestProduct(Swift.Int) throws -&gt; Swift.Int"
+                  moduleName = "LargestSeriesProductTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/largest-series-product/Sources/LargestSeriesProduct/LargestSeriesProduct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
