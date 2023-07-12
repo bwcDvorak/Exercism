@@ -4,8 +4,6 @@ import Foundation
 
 struct Matrix {
     
-    var matrixArray = [[Int]]()
-    
     var rows = [[Int]]()
     var columns = [[Int]]()
     
