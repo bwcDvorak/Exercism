@@ -9,17 +9,18 @@ struct Matrix {
     
     init (_ input: String) {
         let rowDelimiter = CharacterSet.newlines
+        let itemDelimiter = CharacterSet.whitespaces
+
         // array of row strings
         let tempArray = input.components(separatedBy: rowDelimiter)
         
         // convert row components to ints, add to .rows
         for i in 0...(tempArray.count - 1) {
-            let itemDelimiter = CharacterSet.whitespaces
             let rowString = tempArray[i].components(separatedBy: itemDelimiter)
             rows.append(rowString.compactMap { Int($0) })
             }
         
-        // we have our row arrays, now create column ones
+        // use row arrays to create column ones
         let colCount = rows[0].count
         for j in 0...(colCount - 1) {
             columns.append([Int]())

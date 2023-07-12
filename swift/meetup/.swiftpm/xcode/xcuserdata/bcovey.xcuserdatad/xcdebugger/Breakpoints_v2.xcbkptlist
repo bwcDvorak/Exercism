@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD4656B2-CE0B-42F0-B4D6-0ABD3B273D07"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAFBC2C1-6DD2-43B4-A7CF-20A569638C92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Meetup/Meetup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "day(_:which:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DAFBC2C1-6DD2-43B4-A7CF-20A569638C92 - d418ef04534b1f17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "2464">
+               </Location>
+               <Location
+                  uuid = "DAFBC2C1-6DD2-43B4-A7CF-20A569638C92 - d418ef04534b61e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "2396">
+               </Location>
+               <Location
+                  uuid = "DAFBC2C1-6DD2-43B4-A7CF-20A569638C92 - d418ef04534b61e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "2424">
+               </Location>
+               <Location
+                  uuid = "DAFBC2C1-6DD2-43B4-A7CF-20A569638C92 - d418ef04534b1e6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "2376">
+               </Location>
+               <Location
+                  uuid = "DAFBC2C1-6DD2-43B4-A7CF-20A569638C92 - d418ef04534b1e4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "2376">
+               </Location>
+               <Location
+                  uuid = "DAFBC2C1-6DD2-43B4-A7CF-20A569638C92 - d418ef04534b1e4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "2488">
+               </Location>
+               <Location
+                  uuid = "DAFBC2C1-6DD2-43B4-A7CF-20A569638C92 - d418ef04534b1e6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "2488">
+               </Location>
+               <Location
+                  uuid = "DAFBC2C1-6DD2-43B4-A7CF-20A569638C92 - d418ef04534b1e0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "2488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A07E080F-9C4C-4A72-9455-323A702AA346"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Meetup/Meetup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "day(_:which:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A07E080F-9C4C-4A72-9455-323A702AA346 - d418ef04534b1f55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "2304">
+               </Location>
+               <Location
+                  uuid = "A07E080F-9C4C-4A72-9455-323A702AA346 - d418ef04534b1f55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "2328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDF96C8A-CB88-468D-9437-A4C2F8EF9BFB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Meetup/Meetup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "day(_:which:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80B476D3-95E8-4827-9FE9-C13CFD57AA4E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Meetup/Meetup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "day(_:which:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A6934A3-D946-4A60-94C2-A8A9AC0BD289"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Meetup/Meetup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "day(_:which:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9483E50-6455-45AB-9E4C-811DA086039C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Meetup/Meetup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "day(_:which:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9483E50-6455-45AB-9E4C-811DA086039C - d418ef04534b601e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "5292">
+               </Location>
+               <Location
+                  uuid = "C9483E50-6455-45AB-9E4C-811DA086039C - d418ef04534b601e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "5324">
+               </Location>
+               <Location
+                  uuid = "C9483E50-6455-45AB-9E4C-811DA086039C - d418ef04534b63d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "5564">
+               </Location>
+               <Location
+                  uuid = "C9483E50-6455-45AB-9E4C-811DA086039C - d418ef04534b63d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "5576">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBEBA440-3222-4A75-A759-4F5872A4E39A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Meetup/Meetup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "day(_:which:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBEBA440-3222-4A75-A759-4F5872A4E39A - d418ef04534b603f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "5520">
+               </Location>
+               <Location
+                  uuid = "EBEBA440-3222-4A75-A759-4F5872A4E39A - d418ef04534b603f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "5552">
+               </Location>
+               <Location
+                  uuid = "EBEBA440-3222-4A75-A759-4F5872A4E39A - d418ef04534b63f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "5792">
+               </Location>
+               <Location
+                  uuid = "EBEBA440-3222-4A75-A759-4F5872A4E39A - d418ef04534b63f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "5880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A390642-392A-4548-8B55-E27C9558D445"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Meetup/Meetup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "day(_:which:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A390642-392A-4548-8B55-E27C9558D445 - d418ef04534b63d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "5764">
+               </Location>
+               <Location
+                  uuid = "4A390642-392A-4548-8B55-E27C9558D445 - d418ef04534b6392"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "6004">
+               </Location>
+               <Location
+                  uuid = "4A390642-392A-4548-8B55-E27C9558D445 - d418ef04534b6392"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meetup.Meetup.day(_: Swift.Int, which: Swift.String) -&gt; Swift.String"
+                  moduleName = "MeetupTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/meetup/Sources/Meetup/Meetup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "6092">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
