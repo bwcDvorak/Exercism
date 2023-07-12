@@ -1,0 +1,26 @@
+{
+  "authors": [],
+  "contributors": [
+    "bhargavg",
+    "ericrosko",
+    "harquail",
+    "kytrinyx",
+    "lyuha",
+    "masters3d",
+    "ThomasHaz"
+  ],
+  "files": {
+    "solution": [
+      "Sources/Matrix/Matrix.swift"
+    ],
+    "test": [
+      "Tests/MatrixTests/MatrixTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/Matrix/MatrixExample.swift"
+    ]
+  },
+  "blurb": "Given a string representing a matrix of numbers, return the rows and columns of that matrix.",
+  "source": "Exercise by the JumpstartLab team for students at The Turing School of Software and Design.",
+  "source_url": "https://turing.edu"
+}

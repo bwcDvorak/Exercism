@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CF88E2C7-4F33-4CA6-B5D7-E38D37AF7207"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7F5652D-C35D-4C75-9877-A5DA7CCB1B86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Matrix/Matrix.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7F5652D-C35D-4C75-9877-A5DA7CCB1B86 - 2cac229971bf9137"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Matrix.Matrix.init(Swift.String) -&gt; Matrix.Matrix"
+                  moduleName = "MatrixTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/matrix/Sources/Matrix/Matrix.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1056">
+               </Location>
+               <Location
+                  uuid = "A7F5652D-C35D-4C75-9877-A5DA7CCB1B86 - 2cac229971bf9137"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Matrix.Matrix.init(Swift.String) -&gt; Matrix.Matrix"
+                  moduleName = "MatrixTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/matrix/Sources/Matrix/Matrix.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "820">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75B373F0-5408-44F2-A7A2-26C60658448E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Matrix/Matrix.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "75B373F0-5408-44F2-A7A2-26C60658448E - 2cac229971bf9114"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Matrix.Matrix.init(Swift.String) -&gt; Matrix.Matrix"
+                  moduleName = "MatrixTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/matrix/Sources/Matrix/Matrix.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "75B373F0-5408-44F2-A7A2-26C60658448E - 2cac229971bf9114"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Matrix.Matrix.init(Swift.String) -&gt; Matrix.Matrix"
+                  moduleName = "MatrixTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/matrix/Sources/Matrix/Matrix.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "840">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DC98DDD-3763-4479-A153-D00570D1544D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Matrix/Matrix.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DC98DDD-3763-4479-A153-D00570D1544D - 2cac229971bf91f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Matrix.Matrix.init(Swift.String) -&gt; Matrix.Matrix"
+                  moduleName = "MatrixTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/matrix/Sources/Matrix/Matrix.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1192">
+               </Location>
+               <Location
+                  uuid = "4DC98DDD-3763-4479-A153-D00570D1544D - c64a38ea7a8b46c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; Swift.Optional&lt;Swift.Int&gt; in Matrix.Matrix.init(Swift.String) -&gt; Matrix.Matrix"
+                  moduleName = "MatrixTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/matrix/Sources/Matrix/Matrix.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "4DC98DDD-3763-4479-A153-D00570D1544D - 2cac229971bf91f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Matrix.Matrix.init(Swift.String) -&gt; Matrix.Matrix"
+                  moduleName = "MatrixTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/matrix/Sources/Matrix/Matrix.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "916">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAF72C7E-24EB-456A-88A6-7F517680ED5A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Matrix/Matrix.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CAF72C7E-24EB-456A-88A6-7F517680ED5A - 2cac229971bf963f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Matrix.Matrix.init(Swift.String) -&gt; Matrix.Matrix"
+                  moduleName = "MatrixTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/matrix/Sources/Matrix/Matrix.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1144">
+               </Location>
+               <Location
+                  uuid = "CAF72C7E-24EB-456A-88A6-7F517680ED5A - 2cac229971bf9679"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Matrix.Matrix.init(Swift.String) -&gt; Matrix.Matrix"
+                  moduleName = "MatrixTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/matrix/Sources/Matrix/Matrix.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "740">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9096C54-DB1A-4B5B-AEE2-DC961091E5C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Matrix/Matrix.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F9096C54-DB1A-4B5B-AEE2-DC961091E5C5 - 2cac229971bf963f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Matrix.Matrix.init(Swift.String) -&gt; Matrix.Matrix"
+                  moduleName = "MatrixTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/matrix/Sources/Matrix/Matrix.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1144">
+               </Location>
+               <Location
+                  uuid = "F9096C54-DB1A-4B5B-AEE2-DC961091E5C5 - 2cac229971bf965e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Matrix.Matrix.init(Swift.String) -&gt; Matrix.Matrix"
+                  moduleName = "MatrixTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/matrix/Sources/Matrix/Matrix.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "796">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2D3077F-CD37-477E-8B2B-5FEBDE186224"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Matrix/Matrix.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7744F3CC-914E-4A5E-AAAF-0BC3F26C2193"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Matrix/Matrix.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "802E2BEB-AABD-4A98-B168-ABFE5B480D90"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Matrix/Matrix.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
