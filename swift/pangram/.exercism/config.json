@@ -1,0 +1,25 @@
+{
+  "authors": [],
+  "contributors": [
+    "bhargavg",
+    "harquail",
+    "kytrinyx",
+    "lyuha",
+    "masters3d",
+    "ThomasHaz"
+  ],
+  "files": {
+    "solution": [
+      "Sources/Pangram/Pangram.swift"
+    ],
+    "test": [
+      "Tests/PangramTests/PangramTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/Pangram/PangramExample.swift"
+    ]
+  },
+  "blurb": "Determine if a sentence is a pangram.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Pangram"
+}
