@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "491D5CA1-B895-42B1-B77D-4C181BD21328"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7834EC0C-D728-4980-BAD6-B7686CB25CD3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SaddlePoints/SaddlePoints.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7834EC0C-D728-4980-BAD6-B7686CB25CD3 - 16a2cf0876d0421b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SaddlePoints.SaddlePointsMatrix.init(Swift.String) -&gt; SaddlePoints.SaddlePointsMatrix"
+                  moduleName = "SaddlePointsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/saddle-points/Sources/SaddlePoints/SaddlePoints.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1432">
+               </Location>
+               <Location
+                  uuid = "7834EC0C-D728-4980-BAD6-B7686CB25CD3 - 16a2cf0876d0421b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SaddlePoints.SaddlePointsMatrix.init(Swift.String) -&gt; SaddlePoints.SaddlePointsMatrix"
+                  moduleName = "SaddlePointsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bcovey/Source/Exercism/swift/saddle-points/Sources/SaddlePoints/SaddlePoints.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1C048D1-0517-4BF1-BBFA-D501830E470F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/SaddlePoints/SaddlePoints.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "SaddlePointsMatrix"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

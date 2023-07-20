@@ -1,0 +1,26 @@
+{
+  "authors": [],
+  "contributors": [
+    "bhargavg",
+    "harquail",
+    "kytrinyx",
+    "lyuha",
+    "masters3d",
+    "robtimp",
+    "ThomasHaz"
+  ],
+  "files": {
+    "solution": [
+      "Sources/SaddlePoints/SaddlePoints.swift"
+    ],
+    "test": [
+      "Tests/SaddlePointsTests/SaddlePointsTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/SaddlePoints/SaddlePointsExample.swift"
+    ]
+  },
+  "blurb": "Detect saddle points in a matrix.",
+  "source": "J Dalbey's Programming Practice problems",
+  "source_url": "https://users.csc.calpoly.edu/~jdalbey/103/Projects/ProgrammingPractice.html"
+}
