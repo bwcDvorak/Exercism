@@ -1,0 +1,26 @@
+{
+  "authors": [],
+  "contributors": [
+    "bhargavg",
+    "harquail",
+    "kytrinyx",
+    "lyuha",
+    "masters3d",
+    "ThomasHaz",
+    "meatball133"
+  ],
+  "files": {
+    "solution": [
+      "Sources/FoodChain/FoodChain.swift"
+    ],
+    "test": [
+      "Tests/FoodChainTests/FoodChainTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/FoodChain/FoodChainExample.swift"
+    ]
+  },
+  "blurb": "Generate the lyrics of the song 'I Know an Old Lady Who Swallowed a Fly'.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/There_Was_an_Old_Lady_Who_Swallowed_a_Fly"
+}
