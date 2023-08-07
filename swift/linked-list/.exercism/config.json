@@ -1,0 +1,27 @@
+{
+  "authors": [
+    "masters3d"
+  ],
+  "contributors": [
+    "bhargavg",
+    "hankturowski",
+    "harquail",
+    "kytrinyx",
+    "lyuha",
+    "nickkjordan",
+    "ThomasHaz"
+  ],
+  "files": {
+    "solution": [
+      "Sources/LinkedList/LinkedList.swift"
+    ],
+    "test": [
+      "Tests/LinkedListTests/LinkedListTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/LinkedList/LinkedListExample.swift"
+    ]
+  },
+  "blurb": "Implement a doubly linked list.",
+  "source": "Classic computer science topic"
+}
