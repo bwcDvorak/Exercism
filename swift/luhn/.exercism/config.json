@@ -1,0 +1,31 @@
+{
+  "authors": [
+    "masters3d"
+  ],
+  "contributors": [
+    "bhargavg",
+    "hankturowski",
+    "harquail",
+    "jarhill0",
+    "kytrinyx",
+    "lyuha",
+    "nickkjordan",
+    "robtimp",
+    "ThomasHaz",
+    "meatball133"
+  ],
+  "files": {
+    "solution": [
+      "Sources/Luhn/Luhn.swift"
+    ],
+    "test": [
+      "Tests/LuhnTests/LuhnTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/Luhn/LuhnExample.swift"
+    ]
+  },
+  "blurb": "Given a number determine whether or not it is valid per the Luhn formula.",
+  "source": "The Luhn Algorithm on Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Luhn_algorithm"
+}
