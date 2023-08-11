@@ -1,0 +1,30 @@
+{
+  "authors": [
+    "masters3d"
+  ],
+  "contributors": [
+    "bhargavg",
+    "hankturowski",
+    "harquail",
+    "kytrinyx",
+    "lyuha",
+    "nickkjordan",
+    "robtimp",
+    "ThomasHaz",
+    "meatball133"
+  ],
+  "files": {
+    "solution": [
+      "Sources/RomanNumerals/RomanNumerals.swift"
+    ],
+    "test": [
+      "Tests/RomanNumeralsTests/RomanNumeralsTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/RomanNumerals/RomanNumeralsExample.swift"
+    ]
+  },
+  "blurb": "Write a function to convert from normal numbers to Roman Numerals.",
+  "source": "The Roman Numeral Kata",
+  "source_url": "https://codingdojo.org/kata/RomanNumerals/"
+}
