@@ -4,7 +4,6 @@ class AtbashCipher {
     // Write your code for the 'AtbashCipher' exercise in this file.
     static func encode(_ phrase: String) -> String {
         let lowercaseAlphabets = Array("abcdefghijklmnopqrstuvwxyz")
-        let lowercaseReversedAlphabets = lowercaseAlphabets.reversed()
         
         // Remove spaces from the input string and convert to lowercase
         let cleanedInput = phrase.lowercased().filter { !$0.isWhitespace }
