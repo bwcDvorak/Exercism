@@ -1,0 +1,27 @@
+{
+  "authors": [],
+  "contributors": [
+    "bhargavg",
+    "harquail",
+    "kytrinyx",
+    "lyuha",
+    "masters3d",
+    "robtimp",
+    "samkrishna",
+    "ThomasHaz"
+  ],
+  "files": {
+    "solution": [
+      "Sources/PalindromeProducts/PalindromeProducts.swift"
+    ],
+    "test": [
+      "Tests/PalindromeProductsTests/PalindromeProductsTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/PalindromeProducts/PalindromeProductsExample.swift"
+    ]
+  },
+  "blurb": "Detect palindrome products in a given range.",
+  "source": "Problem 4 at Project Euler",
+  "source_url": "https://projecteuler.net/problem=4"
+}
