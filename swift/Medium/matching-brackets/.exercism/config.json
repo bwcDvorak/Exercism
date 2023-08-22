@@ -1,0 +1,26 @@
+{
+  "authors": [
+    "robtimp"
+  ],
+  "contributors": [
+    "thomchop",
+    "bhargavg",
+    "harquail",
+    "lyuha",
+    "masters3d",
+    "ThomasHaz"
+  ],
+  "files": {
+    "solution": [
+      "Sources/MatchingBrackets/MatchingBrackets.swift"
+    ],
+    "test": [
+      "Tests/MatchingBracketsTests/MatchingBracketsTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/MatchingBrackets/MatchingBracketsExample.swift"
+    ]
+  },
+  "blurb": "Make sure the brackets and braces all match.",
+  "source": "Ginna Baker"
+}
