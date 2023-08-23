@@ -1,0 +1,27 @@
+{
+  "authors": [
+    "masters3d",
+    "meatball133"
+  ],
+  "contributors": [
+    "bhargavg",
+    "harquail",
+    "kytrinyx",
+    "lyuha",
+    "petertseng",
+    "robtimp",
+    "ThomasHaz"
+  ],
+  "files": {
+    "solution": [
+      "Sources/Dominoes/Dominoes.swift"
+    ],
+    "test": [
+      "Tests/DominoesTests/DominoesTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/Dominoes/DominoesExample.swift"
+    ]
+  },
+  "blurb": "Make a chain of dominoes."
+}
