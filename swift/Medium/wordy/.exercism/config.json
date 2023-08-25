@@ -1,0 +1,29 @@
+{
+  "authors": [
+    "masters3d"
+  ],
+  "contributors": [
+    "bhargavg",
+    "hankturowski",
+    "harquail",
+    "kytrinyx",
+    "lyuha",
+    "nickkjordan",
+    "robtimp",
+    "ThomasHaz"
+  ],
+  "files": {
+    "solution": [
+      "Sources/Wordy/Wordy.swift"
+    ],
+    "test": [
+      "Tests/WordyTests/WordyTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/Wordy/WordyExample.swift"
+    ]
+  },
+  "blurb": "Parse and evaluate simple math word problems returning the answer as an integer.",
+  "source": "Inspired by one of the generated questions in the Extreme Startup game.",
+  "source_url": "https://github.com/rchatley/extreme_startup"
+}
