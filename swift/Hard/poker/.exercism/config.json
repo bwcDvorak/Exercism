@@ -1,0 +1,28 @@
+{
+  "authors": [
+    "masters3d"
+  ],
+  "contributors": [
+    "bhargavg",
+    "cdmcmahon",
+    "harquail",
+    "lyuha",
+    "robtimp",
+    "samkrishna",
+    "ThomasHaz"
+  ],
+  "files": {
+    "solution": [
+      "Sources/Poker/Poker.swift"
+    ],
+    "test": [
+      "Tests/PokerTests/PokerTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/Poker/PokerExample.swift"
+    ]
+  },
+  "blurb": "Pick the best hand(s) from a list of poker hands.",
+  "source": "Inspired by the training course from Udacity.",
+  "source_url": "https://www.udacity.com/course/viewer#!/c-cs212/"
+}
