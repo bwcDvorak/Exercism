@@ -1,20 +1,38 @@
 import Foundation
 
-//Solution goes in Sources
+enum ClassificationError: Error, Equatable {
+    case invalidInput
+}
 
 struct NumberClassifier {
     
-    var classification: theClassification
-
-    enum theClassification {
+    var classification: Classification
+    
+    enum Classification: String {
         case perfect, abundant, deficient
     }
         
-    init( number: Int) {
-        var theSum = 1 // no need to test 1 in the loop, it's always a factor
-        for i in 2...(number - 1) { // -1 because we exclude number itself from sum
+    init(number: Int) throws {
+        guard number > 0 else {
+            throw ClassificationError.invalidInput
+        }
+        
+        // Special case: 1 has no positive divisors other than itself
+        if number == 1 {
+            self.classification = .deficient
+            return
+        }
+        
+        var theSum = 0 // Initialize the sum to 0
+        
+        let sqrtNumber = Int(sqrt(Double(number)))
+        for i in 1...sqrtNumber { // Start the loop from 1
             if number % i == 0 {
-                theSum += i
+                if i == number / i || i == 1 { // Include 1 and exclude the number itself
+                    theSum += i
+                } else {
+                    theSum += i + (number / i)
+                }
             }
         }
         
@@ -26,4 +44,11 @@ struct NumberClassifier {
             self.classification = .perfect
         }
     }
+}
+
+
+func classify(number: Int) throws -> NumberClassifier.Classification {
+    // Initialize NumberClassifier with number; it will throw an error if number < 1
+    let classifier = try NumberClassifier(number: number)
+    return classifier.classification
 }

@@ -1,34 +1,75 @@
 import XCTest
+
 @testable import PerfectNumbers
 
 class PerfectNumbersTests: XCTestCase {
-    func testPerfect() {
-        let numberClassifier = NumberClassifier(number: 6)
-        XCTAssertEqual([.perfect], [numberClassifier.classification])
-    }
+  let runAll = Bool(ProcessInfo.processInfo.environment["RUNALL", default: "false"]) ?? false
 
-    func testPerfectAgain() {
-        let numberClassifier = NumberClassifier(number: 28)
-        XCTAssertEqual([.perfect], [numberClassifier.classification])
-    }
+  func testSmallestPerfectNumberIsClassifiedCorrectly() {
+    XCTAssertEqual(try! classify(number: 6), .perfect)
+  }
 
-    func testDeficient() {
-        let numberClassifier = NumberClassifier(number: 13)
-        XCTAssertEqual([.deficient], [numberClassifier.classification])
+  func testMediumPerfectNumberIsClassifiedCorrectly() throws {
+    try XCTSkipIf(false && !runAll)  // change true to false to run this test
+    XCTAssertEqual(try! classify(number: 28), .perfect)
+  }
 
-    }
+  func testLargePerfectNumberIsClassifiedCorrectly() throws {
+    try XCTSkipIf(false && !runAll)  // change true to false to run this test
+    XCTAssertEqual(try! classify(number: 33_550_336), .perfect)
+  }
 
-    func testAbundant() {
-        let numberClassifier = NumberClassifier(number: 12)
-        XCTAssertEqual([.abundant], [numberClassifier.classification])
-    }
+  func testSmallestAbundantNumberIsClassifiedCorrectly() throws {
+    try XCTSkipIf(false && !runAll)  // change true to false to run this test
+    XCTAssertEqual(try! classify(number: 12), .abundant)
+  }
 
-    static var allTests: [(String, (PerfectNumbersTests) -> () throws -> Void)] {
-        return [
-            ("testPerfect", testPerfect),
-            ("testPerfectAgain", testPerfectAgain),
-            ("testDeficient", testDeficient),
-            ("testAbundant", testAbundant),
-        ]
+  func testMediumAbundantNumberIsClassifiedCorrectly() throws {
+    try XCTSkipIf(false && !runAll)  // change true to false to run this test
+    XCTAssertEqual(try! classify(number: 30), .abundant)
+  }
+
+  func testLargeAbundantNumberIsClassifiedCorrectly() throws {
+    try XCTSkipIf(false && !runAll)  // change true to false to run this test
+    XCTAssertEqual(try! classify(number: 33_550_335), .abundant)
+  }
+
+  func testSmallestPrimeDeficientNumberIsClassifiedCorrectly() throws {
+    try XCTSkipIf(false && !runAll)  // change true to false to run this test
+    XCTAssertEqual(try! classify(number: 2), .deficient)
+  }
+
+  func testSmallestNonPrimeDeficientNumberIsClassifiedCorrectly() throws {
+    try XCTSkipIf(false && !runAll)  // change true to false to run this test
+    XCTAssertEqual(try! classify(number: 4), .deficient)
+  }
+
+  func testMediumDeficientNumberIsClassifiedCorrectly() throws {
+    try XCTSkipIf(false && !runAll)  // change true to false to run this test
+    XCTAssertEqual(try! classify(number: 32), .deficient)
+  }
+
+  func testLargeDeficientNumberIsClassifiedCorrectly() throws {
+    try XCTSkipIf(false && !runAll)  // change true to false to run this test
+    XCTAssertEqual(try! classify(number: 33_550_337), .deficient)
+  }
+
+  func testEdgeCaseNoFactorsOtherThanItselfIsClassifiedCorrectly() throws {
+    try XCTSkipIf(false && !runAll)  // change true to false to run this test
+    XCTAssertEqual(try! classify(number: 1), .deficient)
+  }
+
+  func testZeroIsRejectedAsItIsNotAPositiveInteger() throws {
+    try XCTSkipIf(false && !runAll)  // change true to false to run this test
+    XCTAssertThrowsError(try classify(number: 0)) { error in
+      XCTAssertEqual(error as? ClassificationError, .invalidInput)
     }
+  }
+
+  func testNegativeIntegerIsRejectedAsItIsNotAPositiveInteger() throws {
+    try XCTSkipIf(false && !runAll)  // change true to false to run this test
+    XCTAssertThrowsError(try classify(number: -1)) { error in
+      XCTAssertEqual(error as? ClassificationError, .invalidInput)
+    }
+  }
 }
