@@ -1,48 +1,84 @@
 import Foundation
 
-//Solution goes in Sources
+enum PhoneNumberError: Error, Equatable {
+    case invalidPhoneNumber
+    case regexCreationFailed
+}
 
 struct PhoneNumber: CustomStringConvertible {
-    var number              = ""
-    var areaCode            = ""
-    var exchangeCode        = ""
-    var subscriberNumber    = ""
-    var description         = ""
+    var number: String
+    var areaCode: String
+    var exchangeCode: String
+    var subscriberNumber: String
     
-    init(_ inputString: String) {
+    var description: String {
+        "(\(areaCode)) \(exchangeCode)-\(subscriberNumber)"
+    }
+    
+    init(_ inputString: String) throws {
+        let cleanedNumber = try PhoneNumber.clean(inputString)
+        
+        guard cleanedNumber.count == 10,
+              let firstChar = cleanedNumber.first,
+              firstChar != "0",
+              firstChar != "1"
+        else {
+            throw PhoneNumberError.invalidPhoneNumber
+        }
+        
+        let areaIndex = cleanedNumber.index(cleanedNumber.startIndex, offsetBy: 3)
+        let exchangeIndex = cleanedNumber.index(areaIndex, offsetBy: 3)
+        
+        areaCode = String(cleanedNumber[..<areaIndex])
+        
+        let exchangeCodeFirstChar = cleanedNumber[areaIndex]
+        
+        guard exchangeCodeFirstChar != "0", exchangeCodeFirstChar != "1" else {
+            throw PhoneNumberError.invalidPhoneNumber
+        }
+        
+        exchangeCode = String(cleanedNumber[areaIndex..<exchangeIndex])
+        subscriberNumber = String(cleanedNumber[exchangeIndex...])
+        number = cleanedNumber
+    }
+    
+    func clean() throws -> String {
+        try PhoneNumber.clean(self.number)
+    }
+    
+    private static func clean(_ inputString: String) throws -> String {
         var tempString = ""
         
-        let pattern = "\\d"
-        let regex = try! NSRegularExpression(pattern: pattern, options: [])
-        
-        let matches = regex.matches(in: inputString, options: [], range: NSRange(location: 0, length: inputString.utf16.count))
-        
-        for match in matches {
-            if let range = Range(match.range, in: inputString) {
+        do {
+            let pattern = "\\d"
+            let regex = try NSRegularExpression(pattern: pattern, options: [])
+            
+            let matches = regex.matches(in: inputString, options: [], range: NSRange(inputString.startIndex..., in: inputString))
+            
+            for match in matches {
+                let range = Range(match.range, in: inputString)!
                 tempString += String(inputString[range])
             }
+        } catch {
+            throw PhoneNumberError.regexCreationFailed
         }
         
-        // if string too long trim starting one(s)
+        guard tempString.count >= 10 else {
+            throw PhoneNumberError.invalidPhoneNumber
+        }
+        
         if tempString.count > 10 {
-            let characterToTrim: Character = "1"
-            tempString = String(tempString.drop(while: { $0 == characterToTrim }))
+            tempString = String(tempString.drop(while: { $0 == "1" }))
         }
         
-        // if not exactly 10 chars now, bail with known bad value
-        if tempString.count != 10 {
-                number = "0000000000" // which is gonna fail every other test too
-            return
+        let areaIndex = tempString.index(tempString.startIndex, offsetBy: 3)
+        
+        guard ["0", "1"].contains(tempString.first) == false,
+              ["0", "1"].contains(tempString[areaIndex]) == false
+        else {
+            throw PhoneNumberError.invalidPhoneNumber
         }
         
-        areaCode = String(tempString.prefix(3))
-        tempString = String(tempString.dropFirst(3))
-        
-        exchangeCode = String(tempString.prefix(3))
-        tempString = String(tempString.dropFirst(3))
-
-        subscriberNumber = String(tempString.prefix(4))
-        number = areaCode + exchangeCode + subscriberNumber
-        description = "(" + areaCode + ") " + exchangeCode + "-" + subscriberNumber
+        return tempString
     }
 }
