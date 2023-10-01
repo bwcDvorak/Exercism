@@ -20,6 +20,15 @@ struct SimulatedRobot {
     var bearing: Direction = .north
     var coordinates: [Int] = [0, 0]
     
+    init(x: Int, y: Int, bearing: Direction) {
+        self.coordinates = [x, y]
+        self.bearing = bearing
+    }
+    
+    var state: (x: Int, y: Int, bearing: Direction) {
+        return (coordinates[0], coordinates[1], bearing)
+    }
+    
     // sets the direction no matter how many turns required
     mutating func orient (_ direction: Direction){
         bearing = direction
@@ -109,4 +118,7 @@ struct SimulatedRobot {
         }
     }
     
+    mutating func move(commands: String) {
+        self.evaluate(commands)
+    }
 }

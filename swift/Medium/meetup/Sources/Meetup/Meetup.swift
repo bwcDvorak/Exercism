@@ -1,93 +1,80 @@
 import Foundation
 
-//Solution goes in Sources
-
-struct Meetup {
-    
-    var myDateComponents = DateComponents()
-    
-    init(year: Int?, month: Int?) {
-        myDateComponents.year   = year
-        myDateComponents.month  = month
-        // default to first day; we'll refine further
-        myDateComponents.day    = 1
-    }
-    
-    func day(_ weekday: Int, which: String ) -> String {
-
-        // just grabbing the current user's systemwide calendar setting
-        let calendar = Calendar.current
-        
-        // starts as first day of target month; we'll refine further
-        let firstDayOfMonth = calendar.date(from: myDateComponents)!
-        
-        // 'EEEE' means -> "Monday", "Tuesday", etc.
-        let dayNameDateFormatter = DateFormatter()
-        dayNameDateFormatter.dateFormat = "EEEE"
-
-        let firstDayName = dayNameDateFormatter.string(from: firstDayOfMonth)
-        var firstDayInt = 0
-        
-        // convert firstDayName to an Int, just like the 'weekday' parameter
-        switch firstDayName {
-        case "Sunday":
-            firstDayInt = 1
-        case "Monday":
-            firstDayInt = 2
-        case "Tuesday":
-            firstDayInt = 3
-        case "Wednesday":
-            firstDayInt = 4
-        case "Thursday":
-            firstDayInt = 5
-        case "Friday":
-            firstDayInt = 6
-        case "Saturday":
-            firstDayInt = 7
-        default:
-            // something went horribly awry
-            return ""
-        }
-
-        // use firstDayInt to modify myDateComponents.day to 'first <target day> of month'
-//        var firstTargetDayOfMonth = 1
-        let daysInAWeek = 7
-        let daysToAdd = (weekday - firstDayInt + daysInAWeek) % daysInAWeek
-
-        let lastRange = calendar.range(of: .day, in: .month, for: firstDayOfMonth)
-        let lastDay = lastRange?.count
-
-        // get a mutable copy for return value
-        var returnDateComponents = myDateComponents
-        // modded to first target day of month
-        returnDateComponents.day! += daysToAdd
-        
-        switch which {
-        case "1st":
-            break
-        case "2nd":
-            // week length is static, so just step forward from week 1 to X
-            returnDateComponents.day! += (daysInAWeek)
-        case "3rd":
-            returnDateComponents.day! += (2 * daysInAWeek)
-        case "4th":
-            returnDateComponents.day! += (3 * daysInAWeek)
-        case "last":
-            while returnDateComponents.day! < lastDay! {
-                returnDateComponents.day! += 7
-            }
-        case "teenth":
-            // 12th is the last input which could produce a teenth
-            while returnDateComponents.day! < 12 {
-                returnDateComponents.day! += 7
-            }
-        default:
-            break
-        }
-                
-        let returnFormatter = DateFormatter()
-        returnFormatter.dateFormat = "yyyy-MM-dd"
-        return returnFormatter.string(from: calendar.date(from: returnDateComponents)!)
-    }
+// Enum representing weekdays with associated raw String values.
+enum Weekday: String, CaseIterable {
+    case sunday = "Sunday"
+    case monday = "Monday"
+    case tuesday = "Tuesday"
+    case wednesday = "Wednesday"
+    case thursday = "Thursday"
+    case friday = "Friday"
+    case saturday = "Saturday"
 }
 
+// Enum representing possible week options with associated raw String values.
+enum Which: String, CaseIterable {
+    case first = "first"
+    case second = "second"
+    case third = "third"
+    case fourth = "fourth"
+    case last = "last"
+    case teenth = "teenth"
+}
+
+struct Meetup {
+    // Private properties to hold year, month, which, weekday, calendar, and formatter.
+    private let year: Int
+    private let month: Int
+    private let which: Which
+    private let weekday: Weekday
+    private let calendar = Calendar.current
+    private let formatter: DateFormatter = {
+        let formatter = DateFormatter()
+        formatter.dateFormat = "yyyy-MM-dd" // Date format as a string.
+        return formatter
+    }()
+    
+    // Initializer takes year, month, week, and weekday as parameters and initializes the properties.
+    init(year: Int, month: Int, week: String, weekday: String) {
+        self.year = year
+        self.month = month
+        // Using default values if invalid string is passed.
+        self.which = Which(rawValue: week) ?? .first
+        self.weekday = Weekday(rawValue: weekday) ?? .sunday
+    }
+    
+    // Computed property to get the description of the meetup.
+    var description: String {
+        var components = DateComponents()
+        components.year = year
+        components.month = month
+        // Converting weekday to the corresponding integer value.
+        components.weekday = Weekday.allCases.firstIndex(of: weekday).map { $0 + 1 }  // Mapping Sunday to 1
+        
+        switch which {
+        case .teenth:
+            // Loop over the 'teenth' days and find the corresponding weekday.
+            for day in 13...19 {
+                components.day = day
+                if let date = calendar.date(from: components),
+                   calendar.component(.weekday, from: date) == components.weekday {
+                    return formatter.string(from: date)
+                }
+            }
+        case .first, .second, .third, .fourth:
+            // Calculating the ordinal for the corresponding week and finding the date.
+            components.weekdayOrdinal = Which.allCases.firstIndex(of: which).map { $0 + 1 } // Mapping first to 1
+            if let date = calendar.date(from: components) {
+                return formatter.string(from: date)
+            }
+        case .last:
+            // Finding the last occurrence of the weekday in the month.
+            components.weekdayOrdinal = -1
+            if let date = calendar.date(from: components) {
+                return formatter.string(from: date)
+            }
+        }
+        // Return a descriptive string if no valid date is found.
+        return "Invalid Date"
+    }
+}
